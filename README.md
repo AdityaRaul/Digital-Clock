@@ -2,7 +2,7 @@
 Description
 This project is a simple digital clock application built using Python and Tkinter. It displays the current time and updates every second.
 
-Features
+# Features
 Updates the time every second.
 Simple and clean user interface.
 Real-Time Display: Shows the current time in hours, minutes, and seconds.
