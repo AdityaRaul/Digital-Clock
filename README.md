@@ -1,6 +1,6 @@
-#  Smart Digital-Clock
-Description
-Smart Digital Clock is a real-time desktop GUI application developed using Python and Tkinter. The application dynamically displays the current system time, date, and contextual greeting while updating every second using Tkinter’s non-blocking event scheduling mechanism.
+# Digital-Clock
+
+ Digital Clock is a real-time desktop GUI application developed using Python and Tkinter. The application dynamically displays the current system time, date, and contextual greeting while updating every second using Tkinter’s non-blocking event scheduling mechanism.
 
 It features theme switching (Dark/Light mode), 12/24-hour format toggle, and a blinking digital clock effect to simulate a real-world digital display.
 
