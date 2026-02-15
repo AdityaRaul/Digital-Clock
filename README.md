@@ -10,7 +10,6 @@ This project demonstrates strong understanding of event-driven programming, GUI 
 - **Real-Time Time Synchronization** : Updates the system time every second using Tkinter’s non-blocking after() scheduling method.
 - **12/24-Hour Format Toggle** : Dynamically switch between 12-hour (AM/PM) and 24-hour time formats.
 - **Dynamic Greeting System** – Displays contextual greeting (Morning / Afternoon / Evening) based on current time.: Shows the current time in hours, minutes, and seconds.
-- **12-Hour Format**: Displays time in a 12-hour format with AM/PM notation.
 -  **Dark/Light Theme Toggle** : Implements theme switching using dictionary-based configuration for background, foreground, and accent colors.
 - **Animated Blinking Effect** : Simulates digital clock behavior using a blinking colon animation.
   
